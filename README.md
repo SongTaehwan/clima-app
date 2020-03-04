@@ -1,6 +1,8 @@
-![Clima](Documentation/clima-demo.gif)
+# Clima-Weather App
 
-# Clima Weather App
+<p align="center">
+  <img src="Documentation/clima-demo.gif" height="500" />
+</p>
 
 ## What I learnt
 
@@ -9,7 +11,6 @@
 - Learn to use the UITextField to get user input.
 - Learn about the delegate pattern.
 - Swift protocols and extensions.
-- Swift guard keyword.
 - Swift computed properties.
 - Swift closures and completion handlers.
 - Learn to use URLSession to network and make HTTP requests.
